@@ -1,15 +1,8 @@
-# 👷 `worker-template` Hello World
+# Cloudflare General Assignment Ethan Lee
+View on Github: https://github.com/ea6lee/cloudflare-general-assessment
 
-A template for kick starting a Cloudflare worker project.
+# Local Run
+Use `wrangler dev` to run locally
 
-[`index.js`](https://github.com/cloudflare/worker-template/blob/master/index.js) is the content of the Workers script.
-
-#### Wrangler
-
-To generate using [wrangler](https://github.com/cloudflare/wrangler)
-
-```
-wrangler generate projectname https://github.com/cloudflare/worker-template
-```
-
-Further documentation for Wrangler can be found [here](https://developers.cloudflare.com/workers/tooling/wrangler).
+## Systems Engineering Assignment
+https://github.com/ea6lee/cloudflare-systems-assignment
